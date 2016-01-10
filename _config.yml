@@ -2,6 +2,7 @@ name: setupanewsite
 favicon: null
 layout_spectrum: 0.00303
 typography_spectrum: 0.00101
+title: clunky and very buggy  thegrid.io
 cta:
   domain: null
   bucket: null
