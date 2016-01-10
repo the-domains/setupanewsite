@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[setupanewsite]]></title>
+        <description><![CDATA[setupanewsite]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 00:27:44 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img alt="Why eLearning Is For Every Generation &plus;eLearning Industry Have you ever&period;&period;&period;" src="https://lh3.googleusercontent.com/proxy/3-J558NkyWrppwGfflpFhUzJbA481bg-YE0JbAKiGh0_hhGWUWbTEpiKW_jt8JDgLx16pAS0Uhn_Ny4UfhFqwYL98wngLfo0thlr5Rjzuef4qyOcYvXCkp9lMBPP8jbJzaRRPdozFC1u17yd027d-Fw=w506-h349">]]></description>
+            <link>https://plus.google.com/+ChristopherPappas/posts/ZmeuckMuYs9</link>
+            <guid isPermaLink="false">5999da29-74e8-40d6-92b6-f6b409186397</guid>
+            <pubDate>Sun, 10 Jan 2016 00:27:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
