@@ -1,7 +1,7 @@
 name: setupanewsite
 favicon: null
-layout_spectrum: 0.34963279170915484
-typography_spectrum: 0.787279145559296
+layout_spectrum: 0.00303
+typography_spectrum: 0.00101
 cta:
   domain: null
   bucket: null
