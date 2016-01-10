@@ -1,6 +1,6 @@
 name: setupanewsite
 favicon: null
-layout_spectrum: 0.00303
+layout_spectrum: 1
 typography_spectrum: 0.00101
 title: clunky and very buggy  thegrid.io
 cta:
@@ -24,6 +24,6 @@ color:
     - '#7fd2a6'
   brandStrength: 0.014152188785374165
   lightness: 0.689231792697683
-  saturation: 0.1985364151187241
+  saturation: 0.5
   rhythmicContrast: 0.9693155933637172
 purpose: []
