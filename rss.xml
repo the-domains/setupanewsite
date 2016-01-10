@@ -4,21 +4,14 @@
         <description><![CDATA[clunky and very buggy  thegrid.io]]></description>
         <link>https://thegrid.ai/setupanewsite/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 18:49:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jan 2016 18:50:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/setupanewsite/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[view from the top]]></title>
-            <description><![CDATA[<h1>view from the top</h1>]]></description>
+            <description><![CDATA[<article><h1>view from the top</h1><p>view</p></article>]]></description>
             <link>https://thegrid.ai/setupanewsite/view-from-the-top/index.html</link>
             <guid isPermaLink="false">c4acc7c2-720b-4a51-9d89-90b0f6dc67b2</guid>
             <pubDate>Sun, 10 Jan 2016 18:49:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[VIEW FROM THE TOP]]></title>
-            <description><![CDATA[<h1>VIEW FROM THE TOP</h1>]]></description>
-            <link>https://thegrid.ai/setupanewsite/view-from-the-top/index.html</link>
-            <guid isPermaLink="false">6e692cd7-4fe1-4779-9b73-777f0fd32e45</guid>
-            <pubDate>Sun, 10 Jan 2016 18:47:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
