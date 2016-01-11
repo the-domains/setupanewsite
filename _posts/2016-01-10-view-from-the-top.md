@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2016-01-10T18:59:21.596Z'
-dateModified: '2016-01-10T18:58:40.221Z'
+datePublished: '2016-01-11T00:18:31.189Z'
+dateModified: '2016-01-11T00:18:17.257Z'
 title: view from the top
 author: []
 sourcePath: _posts/2016-01-10-view-from-the-top.md
